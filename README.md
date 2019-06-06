@@ -1,6 +1,7 @@
 # Caminho-de-dados-MIPS
 O trabalho a seguir apresenta uma representação do caminho de dados da arquitetura MIPS de 32bits sem pipeline.
-![](https://i.imgur.com/zGtj9kI.png)
+                      ![](https://i.imgur.com/zGtj9kI.png)
+![](https://i.imgur.com/gM81AYY.jpg)
 >Trabalho prático II (Parte I) da disciplina de Organização de Computadores I.
 
 
