@@ -5,7 +5,7 @@ module Controller (Opcode,RegDst,Branch,MemRead,MemtoReg,ALUOp,MemWrite,ALUSrc,R
   output reg [1:0] Branch;
   always @ ( Opcode ) begin
     case(Opcode)
-      0: begin //ADD, SUB, AND, OR, SLT, NOR
+      0: begin //ADD, SUB, AND, OR, SLT, NOR, XOR
           RegDst = 1;
           Branch = 0;
           MemRead = 0;
