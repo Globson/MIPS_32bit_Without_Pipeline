@@ -132,7 +132,7 @@ initial begin
 end
 
 initial begin
-//  $monitor("\nInstrucao: %b\nSaida PC:  %b\nSaida ALU: %b\n",Instrucao,PCOut,ALUResult);
+  $monitor("\nInstrucao: %b\nSaida PC:  %b\nSaida ALU: %b\n",Instrucao,PCOut,ALUResult);
 end
 
 always @ (negedge clk) begin

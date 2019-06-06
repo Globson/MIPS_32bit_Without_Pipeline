@@ -1,7 +1,8 @@
 all: Main.v
-	iverilog Main.v -o Compilado
+	iverilog Main.v -o Processor
 
-teste: Main.v teste MIPS.vcd
-	iverilog Main.v -o teste
-	./teste
+run: Processor
+	./Processor
+
+gtk: MIPS.vcd
 	gtkwave MIPS.vcd
