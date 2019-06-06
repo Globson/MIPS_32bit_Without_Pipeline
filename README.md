@@ -1,2 +1,2 @@
-# MIPS_32bit_Without_Pipeline
-O projeto a seguir entrega o caminho de dados de um processador da arquitetura MIPS de 32 bits.
+# Caminho-de-dados-MIPS
+O trabalho a seguir apresenta uma representação do caminho de dados da arquitetura MIPS sem pipeline.
