@@ -44,4 +44,4 @@ Veja [LICENSE](https://github.com/Globson/MIPS_32bit_Without_Pipeline/blob/maste
 
 * **Samuel Sena** - [Globson](https://github.com/Globson)
 * **Pablo Ferreira**  - [PabloVizard](https://github.com/PabloVizard)
-* **Arthur de Bellis**  -[ArthurDeBellis](https://github.com/ArthurDeBellis)
+* **Arthur de Bellis**  - [ArthurDeBellis](https://github.com/ArthurDeBellis)
